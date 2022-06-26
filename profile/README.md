@@ -15,7 +15,7 @@
 [link-twitter]: https://twitter.com/360CoreInc
 [link-website]: https://360CoreInc.com
 
-# 360 Core Inc
+# 360 Core Inc.
 
 ## building the endgame
 
