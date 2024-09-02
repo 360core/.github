@@ -10,10 +10,10 @@
 </div>
 
 [ico-twitter]: https://img.shields.io/twitter/url?color=black&label=360%20Core%20Inc&logoColor=black&style=social&url=https%3A%2F%2Ftwitter.com%2F360coreinc
-[ico-website]: https://img.shields.io/website?up_color=black&up_message=360coreinc.com&url=https%3A%2F%2F360coreinc.com
+[ico-website]: https://img.shields.io/website?up_color=black&up_message=360coreinc.com&url=https%3A%2F%2F360core.inc
 
 [link-twitter]: https://twitter.com/360CoreInc
-[link-website]: https://360CoreInc.com
+[link-website]: https://360Core.inc
 
 # 360 Core Inc.
 
