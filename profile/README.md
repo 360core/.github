@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://360core.inc/assets/logo-BvVb8b3P.svg" width="150"/>
+<img src="https://avatars.githubusercontent.com/u/103302774?s=360&v=4" width="150"/>
 </div>
 <br />
 <div align="center">
