@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://360coreinc.com/assets/images/logo/logo.png" width="150"/>
+<img src="https://360core.inc/assets/logo-BvVb8b3P.svg" width="150"/>
 </div>
 <br />
 <div align="center">
