@@ -17,7 +17,7 @@
 
 # 360 Core Inc.
 
-## building the endgame
+## we are the future
 
 360 core inc. builds on-chain and off-chain solutions for projects working on blockchain.
 
