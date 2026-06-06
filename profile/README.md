@@ -13,7 +13,7 @@
 [ico-website]: https://img.shields.io/website?up_color=black&up_message=360coreinc.com&url=https%3A%2F%2F360core.inc
 
 [link-twitter]: https://twitter.com/360CoreInc
-[link-website]: https://360Coreinc.com
+[link-website]: https://360coreinc.com
 
 # 360 Core Inc.
 
